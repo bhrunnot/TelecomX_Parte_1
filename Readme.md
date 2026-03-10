@@ -1,5 +1,3 @@
-Perfeito — agora vou **mudar bem mais o texto**, **encurtar**, **trocar várias palavras**, mas **manter a estrutura Markdown** para continuar bonito no **GitHub / Colab**.
-
 ---
 
 # Telecom_X
